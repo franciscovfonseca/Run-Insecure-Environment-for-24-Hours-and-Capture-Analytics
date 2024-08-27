@@ -62,6 +62,8 @@ The goal now is to **Expose our Environment to Malicious Traffic for 24 hours** 
 
 <br>
 
+<h2></h2>
+
 <br>
 
 <br>
@@ -202,11 +204,11 @@ Before taking the screenshots ➜ the Workbooks need to be edited to only show t
 
 In the next Lab we're going to start **Working the Incidents** and **Securing our Environment**.
 
-We'll go through the **Incident Response Lifecycle** ➜ remidiating problems that were found.
+We'll go through the **Incident Response Lifecycle** ➜ remediating problems that were found.
 
-Then after that Incident Response stage ➜ we're going to further add more **Security Controls** to our Environment and harden it some more.
+After that Incident Response phase ➜ we'll add more **Security Controls** to our Environment and harden it some more.
 
-Then finally we'll take another 24 Hour' Snapshot of our Environment's Attack Metrics and make a comparison with the previous results.
+Finally we'll take another 24 Hour' Snapshot of our Environment's Attack Metrics and make a comparison with the previous results.
 
 <br />
 
