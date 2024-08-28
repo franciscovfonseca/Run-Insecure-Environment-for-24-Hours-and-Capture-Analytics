@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-<img width="900" src="https://github.com/user-attachments/assets/e874e594-c69f-439f-90e7-d588ba7841c8" alt="Banner"/>
+<img width="900" src="https://github.com/user-attachments/assets/37b10453-47fd-4fda-a40e-7423207e809d" alt="Banner"/>
 
 <br>
 
@@ -42,6 +42,12 @@ We'll do this by Practicing Security and **Implementing Security Controls**.
 Finally, when our Environment is sufficiently Secured ➜ we're going to wait another 24 Hours and **Take another Snapshot then**.
 
 We'll compare the 2 Environments to show what impact **Implementing Security Control** can had in our Environment.
+
+<br>
+
+<h2></h2>
+
+<br>
 
   </details>
 
@@ -108,45 +114,45 @@ Before taking the screenshots ➜ the Workbooks need to be edited to only show t
 
 <br>
 
->   <details close> 
->   
-> **<summary> 📋 Steps to Edit the Maps:</summary>**
-> 
-> <br>
-> 
-> From inside the **Workbook** ➜ click on ✏️ **Edit** 
-> 
-> <br>
-> 
-> ![azure portal](https://github.com/user-attachments/assets/d42567b3-d717-466b-a98e-a7c98062dfa3)
-> 
-> <br>
-> 
-> Then go all the way down and to the right ➜ click the **↑ Edit** button
-> 
-> <br>
-> 
-> ![azure portal](https://github.com/user-attachments/assets/44ef059e-e7a7-48f4-b6de-1a6f63bb87ab)
-> 
-> <br>
-> 
-> Change the **Time Range** to ```Last 24 hours```
-> 
-> <br>
-> 
-> ![azure portal](https://github.com/user-attachments/assets/44ef059e-e7a7-48f4-b6de-1a6f63bb87ab)
-> 
-> <br>
-> 
-> Finally ➜ click 📒**Done Editing**
-> 
-> <br>
-> 
-> ![azure portal](https://github.com/user-attachments/assets/d70ed30f-7bde-4e90-8e45-c4e5ea86a2d0)
-> 
-> <br>
-> 
->   </details>
+  <details close> 
+  
+**<summary> 📋 Steps to Edit the Maps:</summary>**
+
+<br>
+
+From inside the **Workbook** ➜ click on ✏️ **Edit** 
+
+<br>
+
+![azure portal](https://github.com/user-attachments/assets/36767f16-0a49-440e-8066-ea319c615747)
+
+<br>
+
+Then go all the way down and to the right ➜ click the **↑ Edit** button
+
+<br>
+
+![azure portal](https://github.com/user-attachments/assets/443caeaf-db8d-4d16-8358-446bbdf4ae70)
+
+<br>
+
+Change the **Time Range** to ```Last 24 hours```
+
+<br>
+
+![azure portal](https://github.com/user-attachments/assets/94e279f2-ad4d-42bb-ba73-5742b514ed57)
+
+<br>
+
+Finally ➜ click 📒**Done Editing**
+
+<br>
+
+![azure portal](https://github.com/user-attachments/assets/ff74b033-73a4-4548-b537-2853b1b360e9)
+
+<br>
+
+  </details>
 
 <br>
 
@@ -158,7 +164,7 @@ Before taking the screenshots ➜ the Workbooks need to be edited to only show t
 
 <br>
 
-![azure portal](https://github.com/user-attachments/assets/e892d644-b7ba-4f0a-b5b4-869a195a725c)
+![azure portal](https://github.com/user-attachments/assets/0a35fc4e-2760-4cfa-b34b-bedd77a3cf66)
 
 <br>
 
@@ -166,7 +172,7 @@ Before taking the screenshots ➜ the Workbooks need to be edited to only show t
 
 <br>
 
-![azure portal](https://github.com/user-attachments/assets/04c1e583-c9b4-45d8-9ef1-cc91baf91b7f)
+![azure portal](https://github.com/user-attachments/assets/f2961c42-8b07-40d2-abe3-795dca6fee1e)
 
 <br>
 
@@ -174,7 +180,7 @@ Before taking the screenshots ➜ the Workbooks need to be edited to only show t
 
 <br>
 
-![azure portal](https://github.com/user-attachments/assets/10d0922f-149a-4280-b0e8-7c1d4c0be0fc)
+![azure portal](https://github.com/user-attachments/assets/1ab74199-8102-4652-9b00-d8bd7883338e)
 
 <br>
 
@@ -182,7 +188,7 @@ Before taking the screenshots ➜ the Workbooks need to be edited to only show t
 
 <br>
 
-![azure portal](https://github.com/user-attachments/assets/10d0922f-149a-4280-b0e8-7c1d4c0be0fc)
+![azure portal](https://github.com/user-attachments/assets/c3608c90-3819-45b3-815d-b90426343367)
 
 <br>
 
